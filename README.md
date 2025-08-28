@@ -1,4 +1,3 @@
-# Pdf-convertor
 # PDF to Excel Converter
 
 A simple **Python Tkinter GUI application** that converts PDF files (digital or scanned) into Excel spreadsheets. This tool can handle tables and plain text from PDFs, and provides OCR fallback for scanned documents.
